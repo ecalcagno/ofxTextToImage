@@ -5,13 +5,13 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>EE156DA9-1863-4668-9CBF-A8E4C707C4CF</string>
+	<string>89E195A0-34EC-454E-B09B-B9DBA61B0391</string>
 	<key>IDESourceControlProjectName</key>
 	<string>ofxTextToImage</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>5E0A2E0E-D077-4032-8A91-B61BF78866F5</key>
-		<string>https://github.com/astellato/ofxSyphon.git</string>
+		<key>31CF45BF-516E-41DD-8D78-2911EA1F7123</key>
+		<string>https://github.com/ecalcagno/ofxTextToImage.git</string>
 		<key>755983AE-B526-46D0-9790-97548EE32C00</key>
 		<string>https://github.com/sosolimited/ofxSoso.git</string>
 	</dict>
@@ -19,17 +19,17 @@
 	<string>example/ofxTextToImage.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>5E0A2E0E-D077-4032-8A91-B61BF78866F5</key>
+		<key>31CF45BF-516E-41DD-8D78-2911EA1F7123</key>
 		<string>../../..</string>
 		<key>755983AE-B526-46D0-9790-97548EE32C00</key>
 		<string>../../../../ofxSoso</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/astellato/ofxSyphon.git</string>
+	<string>https://github.com/ecalcagno/ofxTextToImage.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>5E0A2E0E-D077-4032-8A91-B61BF78866F5</string>
+	<string>31CF45BF-516E-41DD-8D78-2911EA1F7123</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -44,9 +44,9 @@
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>5E0A2E0E-D077-4032-8A91-B61BF78866F5</string>
+			<string>31CF45BF-516E-41DD-8D78-2911EA1F7123</string>
 			<key>IDESourceControlWCCName</key>
-			<string>ofxSyphon</string>
+			<string>ofxTextToImage</string>
 		</dict>
 	</array>
 </dict>
