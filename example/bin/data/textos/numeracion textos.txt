@@ -1,0 +1,39 @@
+TEXTO 1 * ES COMO EL SENTIMIENTO
+archivos de 0 a 5
+
+TEXTO 3 *TECNICA IMAGENES
+archivos 6 a 12
+
+TEXTO 5 *MOEBIUS
+archivos de 13 a 28
+
+TEXTO 8 * DE CARTA A PISTOLA
+archivos de 29 a 36
+
+TEXTO 9 *CANYENGUE
+archivos de 37 a 45
+
+TEXTO 10 *RAYUELA
+archivos de 46 a 51
+
+TEXTO 12 * POESIA AUDIFONOS
+archivos de 52 a 59
+
+TEXTO 15 * AXOLOTL
+archivos de 60 a 66
+
+TEXTO 17 * FIN DE JUEGO
+archivos de 67 a 72
+
+
+
+
+TEXTO 2 ************MUNDO ADENTRO DE OTRO MUNDO
+archivos de 6 a 17
+
+TEXTO 6 ************ESTE NO VA
+archivos de 41 a 54
+
+TEXTO 13 **********ESTE NO VA
+archivos de 86 a 90
+

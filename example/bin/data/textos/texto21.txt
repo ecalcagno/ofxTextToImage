@@ -1,0 +1,1 @@
+Ser ahora el estado cubo o ser ola contenia una diferencia, se era sin fiebre o sin reptacion, el estado cubo no era la fiebre y ser fiebre no era el estado cubo o el estado ola.
